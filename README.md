@@ -2,4 +2,4 @@ In this project, I used data from the European Central Bank (available [here](ht
 
 ![figure_exchange_rates_time](exchange-rates_fig.png)
 
-A notebook containing code to generate the figure can be found [here]().
+A notebook containing code to generate the figure can be found [here](https://github.com/shelbybachman/exchange-rates/blob/main/exchange-rates.ipynb).
